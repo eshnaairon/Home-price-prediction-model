@@ -3,7 +3,7 @@ This data science project uses sklearn and linear regression to build a house pr
 It includes python flask server that uses the saved model to serve http requests. 
 Lastly I have built a website in html, css and javascript that allows user to enter home square ft area, bedrooms ,baths and location and it will call python flask server to retrieve the predicted price.
 
-
+![](website_image.png)
 
 Technology and tools wise this project covers,
 
